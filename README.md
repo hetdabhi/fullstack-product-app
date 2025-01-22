@@ -67,7 +67,7 @@ POST /api/products
 Content-Type: application/json
 
 {
-  "productName": "iPhone 13",
+  "productName": "iPhone 15 Pro Max",
   "description": "Latest iPhone model",
   "category": "Mobile",
   "quantity": 50,
