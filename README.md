@@ -89,16 +89,17 @@ The API returns appropriate HTTP status codes and error messages:
 ## Directory Structure
 ```
 fullstack-product-app/
-├── config.js
-├── server.js
-├── package.json
-├── .env
-├── controllers/
-│   └── productControllers.js
-├── models/
-│   └── productModels.js
-└── routes/
-    └── productRoutes.js
+├── backend
+      ├── config.js
+      ├── server.js
+      ├── package.json
+      ├── .env
+      ├── controllers/
+      │   └── productControllers.js
+      ├── models/
+      │   └── productModels.js
+      └── routes/
+          └── productRoutes.js
 ```
 ## Author
 Het Dabhi
